@@ -1,5 +1,5 @@
 [
-  {
+{
     nome: 'Solange Estudante',
     email: 'solange@email.com',
     cpf: '63058133022',
@@ -54,3 +54,4 @@
     updatedAt: new Date(),
   },
 ];
+  
